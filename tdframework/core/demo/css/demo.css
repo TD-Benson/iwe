@@ -1,0 +1,227 @@
+/*
+* Demo Styles
+*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 28px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.positioned {
+  position: fixed;
+  top: 40px;
+}
+.small {
+  font-size: 10px;
+}
+.fl {
+  float: left;
+  margin-right: 5px;
+}
+.alignright {
+  float: right;
+  margin-right: 5px;
+}
+#customize-demo {
+  width: auto;
+  min-height: 0;
+}
+#customize-demo #settings {
+  display: block;
+  padding: 3px 10px 3px 55px;
+  min-height: 24px;
+  background: #1c1c1c url('../images/gear-arrow.png') 5px 5px no-repeat;
+  color: #FDFDFD;
+  text-transform: uppercase;
+  position: fixed;
+  top: 130px;
+  right: -62px;
+  *right: -85px;
+  z-index: 99999;
+  cursor: pointer;
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  filter: progid:dximagetransform.microsoft.basicimage(rotation=4);
+
+  -o-transition: all 260ms linear;
+	-moz-transition: all 260ms linear;
+	-webkit-transition: all 260ms linear;
+	-ms-transition: all 260ms linear;
+}
+#customize-demo #settings.active {
+  right: 155px;
+  -o-transition: all 350ms linear;
+	-moz-transition: all 350ms linear;
+	-webkit-transition: all 350ms linear;
+	-ms-transition: all 350ms linear;
+}
+#demo-pane {
+  background: #1C1C1C;
+  color: #FDFDFD;
+  width: 220px;
+  -webkit-border-radius: 5px 0 0 5px;
+  -moz-border-radius: 5px 0 0 5px;
+  border-radius: 5px 0 0 5px;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 40px;
+  right: -260px;
+  z-index: 99999;
+
+  -o-transition: all 300ms linear;
+	-moz-transition: all 300ms linear;
+	-webkit-transition: all 300ms linear;
+	-ms-transition: all 300ms linear;
+	opacity: 1;
+}
+#demo-pane.active {
+	right: 0px;
+	-o-transition: all 250ms linear;
+	-moz-transition: all 250ms linear;
+	-webkit-transition: all 250ms linear;
+	-ms-transition: all 250ms linear;
+	opacity: 1;
+}
+#demo-pane .columns {
+  margin-top: 0.5em;
+  padding: 15px;
+  padding-top: 60px;
+  background: transparent url('../images/mikmag.png') top no-repeat;
+}
+#demo-pane .heading {
+  padding-left: 35px;
+  background: transparent url('../images/gear-medium.png') left no-repeat;
+  color: #FFF !important;
+  font-size: 20px;
+}
+#settings,
+#demo-pane .heading,
+#demo-pane h3,
+#demo-pane .moreFeatures {
+  font-family: arial, serif !important;
+}
+#demo-pane h3 {
+  color: #FFF !important;
+  font-size: 1.2em;
+}
+#demo-pane .tiles img {
+  border: solid #AFAFAF 2px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+#demo-pane .tiles .tile {
+  margin: 0 5px 5px 0;
+  border: solid #AFAFAF 1px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+  cursor: pointer;
+}
+#demo-pane ul {
+  margin: 0 0 0 0.1em;
+}
+#demo-pane ul li {
+  list-style: none;
+}
+#demo-pane .moreFeatures {
+  margin: 0 10px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 40px;
+  color: #FFF;
+  display: block;
+  font-size: 13px;
+  line-height: 14px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: #757575;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(top, #757575 0%, #757575 18%, #333333 77%);
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #757575), color-stop(18%, #757575), color-stop(77%, #333333));
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(top, #757575 0%, #757575 18%, #333333 77%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(top, #757575 0%, #757575 18%, #333333 77%);
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(top, #757575 0%, #757575 18%, #333333 77%);
+  /* IE10+ */
+
+  background: linear-gradient(to bottom, #757575 0%, #757575 18%, #333333 77%);
+  /* W3C */
+
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#757575', endColorstr='#333333', GradientType=0);
+  /* IE6-9 */
+
+  -webkit-box-shadow: inset 0 1px 3px rgba(150, 150, 150, 0.25);
+  -moz-box-shadow: inset 0 1px 3px rgba(150, 150, 150, 0.25);
+  box-shadow: inset 0 1px 3px rgba(150, 150, 150, 0.25);
+  position: relative;
+}
+#demo-pane .moreFeatures .arrow {
+  position: absolute;
+  top: 10%;
+  right: 5%;
+}
+#demo-pane .moreFeatures:hover {
+  text-decoration: none;
+}
+#demo-pane .option-group {
+  clear: both;
+  margin-bottom: 1em;
+}
+#demo-pane select {
+  font-size: 0.9em;
+  padding: 2px 5px;
+  color: #333;
+}

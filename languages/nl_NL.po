@@ -1,0 +1,2411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mikmag\n"
+"POT-Creation-Date: 2013-04-17 17:24+0100\n"
+"PO-Revision-Date: 2013-06-27 08:35+0100\n"
+"Last-Translator: Themedutch <sales@theme-dutch.com>\n"
+"Language-Team: Theme Dutch\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14 ../content-none.php:12 ../no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../404.php:20 ../content-none.php:18 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../404.php:24 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../404.php:29 ../content-none.php:27 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../archive.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:37
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Archives"
+msgstr ""
+
+#: ../author-content.php:8
+#, php-format
+msgid "ABOUT %s"
+msgstr ""
+
+#: ../author-content.php:12
+msgid "View all posts by"
+msgstr ""
+
+#: ../author-content.php:20
+#, php-format
+msgid "MORE POSTS BY %s"
+msgstr ""
+
+#: ../author.php:5
+#, php-format
+msgid "Viewing all posts by %s"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:13 ../content-audio.php:29 ../content-image.php:45
+#: ../content-link.php:24 ../content-quote.php:13 ../content-status.php:13
+#: ../content-video.php:27 ../content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:14 ../content-audio.php:30 ../content-chat.php:24
+#: ../content-image.php:46 ../content-link.php:25 ../content-page.php:19
+#: ../content-quote.php:14 ../content-single.php:17 ../content-status.php:14
+#: ../content-video.php:28 ../content.php:26 ../image.php:91
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:20 ../content-aside.php:28 ../content-audio.php:35
+#: ../content-chat.php:29 ../content-gallery.php:36 ../content-image.php:57
+#: ../content-link.php:19 ../content-page.php:21 ../content-quote.php:25
+#: ../content-single.php:24 ../content-status.php:19 ../content-video.php:39
+#: ../content.php:59 ../image.php:32 ../image.php:105
+#: ../tdframework/theme-functions.php:707
+#: ../tdframework/theme-functions.php:728
+#: ../tdframework/core/slider/slider-options.php:47
+#: ../tdframework/core/slider/slider-options.php:57
+msgid "Edit"
+msgstr ""
+
+#: ../content-audio.php:17 ../content-chat.php:17 ../content-gallery.php:18
+#: ../content-image.php:38 ../content-video.php:21 ../content.php:14
+#: ../tdframework/theme-functions.php:872
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-gallery.php:33 ../content-image.php:54 ../content-quote.php:22
+#: ../content-video.php:36 ../content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-gallery.php:33 ../content-image.php:54 ../content-quote.php:22
+#: ../content-video.php:36
+msgid "One comment so far"
+msgstr ""
+
+#: ../content-gallery.php:33 ../content-image.php:54 ../content-quote.php:22
+#: ../content-video.php:36
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content.php:34 ../content.php:44 ../tdframework/theme-functions.php:779
+#: ../tdframework/theme-functions.php:782
+msgid ", "
+msgstr ""
+
+#: ../content.php:38
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:49
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:56
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:56
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:179 ../tdframework/theme-options.php:165
+msgid "Main menu"
+msgstr ""
+
+#: ../functions.php:180 ../tdframework/theme-options.php:177
+msgid "Footer menu"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:305
+msgid "Meta Title, Description and Keywords"
+msgstr ""
+
+#: ../image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:97
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:99
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:101
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:103
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../tdframework/customization.php:29 ../tdframework/theme-options.php:214
+msgid "Colors"
+msgstr ""
+
+#: ../tdframework/customization.php:68 ../tdframework/theme-options.php:255
+msgid "Links"
+msgstr ""
+
+#: ../tdframework/customization.php:72
+msgid "Links, hover"
+msgstr ""
+
+#: ../tdframework/customization.php:76
+msgid "Footer text"
+msgstr ""
+
+#: ../tdframework/customization.php:80 ../tdframework/theme-options.php:248
+msgid "Footer background"
+msgstr ""
+
+#: ../tdframework/customization.php:84
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:9
+msgid "Buttons"
+msgstr ""
+
+#: ../tdframework/customization.php:88
+msgid "Buttons text"
+msgstr ""
+
+#: ../tdframework/extras.php:75
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../tdframework/extras.php:93
+#, php-format
+msgid ""
+"<strong>%s</strong> requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:288
+msgid "You are here:"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:384
+msgid "All Rights Reserved."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:404
+msgid "powered by"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:668
+msgid "Post navigation"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:678
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:682
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:707
+msgid "Pingback:"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:717
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:720
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:755
+#, php-format
+msgid ""
+"<div class=\"entry-meta\">Posted on <a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n"
+"\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span></"
+"div><!-- .entry-meta -->"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:761
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:787
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:789
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:795
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:797
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../tdframework/theme-options.php:52
+#: ../tdframework/theme-post-options.php:12
+msgid "General"
+msgstr ""
+
+#: ../tdframework/theme-options.php:52
+msgid "General theme options."
+msgstr ""
+
+#: ../tdframework/theme-options.php:57
+msgid "Settings"
+msgstr ""
+
+#: ../tdframework/theme-options.php:59
+msgid "Page Layout Style"
+msgstr ""
+
+#: ../tdframework/theme-options.php:59
+#, php-format
+msgid ""
+"This setting toggles the 100% fullwidth or boxed layout style of your site."
+msgstr ""
+
+#: ../tdframework/theme-options.php:62
+msgid "Display blog meta"
+msgstr ""
+
+#: ../tdframework/theme-options.php:62
+msgid "This setting toggles the display of meta-information in blog posts."
+msgstr ""
+
+#: ../tdframework/theme-options.php:63
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: ../tdframework/theme-options.php:63
+msgid "This setting toggles the display of the breadcrumbs navigation aid."
+msgstr ""
+
+#: ../tdframework/theme-options.php:64
+msgid "Display page titles"
+msgstr ""
+
+#: ../tdframework/theme-options.php:64
+msgid ""
+"This setting toggles the display of the titles at the top of every page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:65
+msgid "Display featured image"
+msgstr ""
+
+#: ../tdframework/theme-options.php:65
+msgid ""
+"This setting toggles the display of the featured image on top of every post."
+msgstr ""
+
+#: ../tdframework/theme-options.php:66
+msgid "Enable Page Loader"
+msgstr ""
+
+#: ../tdframework/theme-options.php:66
+msgid "This allows you to add a page loader to the site."
+msgstr ""
+
+#: ../tdframework/theme-options.php:68
+msgid "Images"
+msgstr ""
+
+#: ../tdframework/theme-options.php:70
+msgid "Favicon"
+msgstr ""
+
+#: ../tdframework/theme-options.php:70
+msgid ""
+"This image is displayed in the browser window's title and in browser "
+"favourites."
+msgstr ""
+
+#: ../tdframework/theme-options.php:71
+msgid "Logo"
+msgstr ""
+
+#: ../tdframework/theme-options.php:71
+msgid "The logo is displayed in the site's header."
+msgstr ""
+
+#: ../tdframework/theme-options.php:72
+msgid "Logo Alignment"
+msgstr ""
+
+#: ../tdframework/theme-options.php:72
+msgid "The logo alignment whether 'left', 'right' or 'center'."
+msgstr ""
+
+#: ../tdframework/theme-options.php:73
+msgid "Login logo"
+msgstr ""
+
+#: ../tdframework/theme-options.php:73
+msgid "The logo displayed on the user login page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:74
+msgid "Main Background Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:74
+msgid "The default, site-wide background color."
+msgstr ""
+
+#: ../tdframework/theme-options.php:75
+#: ../tdframework/theme-post-options.php:40
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:108
+msgid "Background image"
+msgstr ""
+
+#: ../tdframework/theme-options.php:75
+msgid "The default, site-wide background image."
+msgstr ""
+
+#: ../tdframework/theme-options.php:77
+msgid "Background Repeat"
+msgstr ""
+
+#: ../tdframework/theme-options.php:77
+msgid "Toggles the display setting of the background to repeat or no-repeat."
+msgstr ""
+
+#: ../tdframework/theme-options.php:78
+msgid "Background Size: 100%"
+msgstr ""
+
+#: ../tdframework/theme-options.php:78
+msgid ""
+"Toggles the display setting of the background size to \"100%\" or \"automatic"
+"\""
+msgstr ""
+
+#: ../tdframework/theme-options.php:81
+#: ../tdframework/core/options/options-types.php:84
+msgid "Pattern"
+msgstr ""
+
+#: ../tdframework/theme-options.php:81
+msgid "The pattern displayed inside various elements."
+msgstr ""
+
+#: ../tdframework/theme-options.php:85
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../tdframework/theme-options.php:87
+msgid "Enable Customize Preview"
+msgstr ""
+
+#: ../tdframework/theme-options.php:87
+msgid ""
+"See your site how it looks with the selection of different fonts and "
+"patterns."
+msgstr ""
+
+#: ../tdframework/theme-options.php:88
+msgid "Enable SEO Basic"
+msgstr ""
+
+#: ../tdframework/theme-options.php:88
+msgid "WARNING! Only enable this if you do not have any WP SEO installed."
+msgstr ""
+
+#: ../tdframework/theme-options.php:89
+msgid "Google analytics code"
+msgstr ""
+
+#: ../tdframework/theme-options.php:89
+msgid ""
+"Place your Google Analytics code snippet here and it will be included in "
+"every page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:91
+msgid "Custom CSS"
+msgstr ""
+
+#: ../tdframework/theme-options.php:91
+msgid "Place your custom css styles here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:92
+msgid "Custom Javascript"
+msgstr ""
+
+#: ../tdframework/theme-options.php:92
+msgid "Place your custom javascripts here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:97 ../tdframework/theme-options.php:105
+#: ../tdframework/theme-options.php:199 ../tdframework/theme-options.php:249
+msgid "Copyright"
+msgstr ""
+
+#: ../tdframework/theme-options.php:97
+msgid "Customize the footer's copyright message."
+msgstr ""
+
+#: ../tdframework/theme-options.php:103
+msgid "Copyright name"
+msgstr ""
+
+#: ../tdframework/theme-options.php:103
+msgid "The name which will be displayed in the footers's copyright."
+msgstr ""
+
+#: ../tdframework/theme-options.php:104
+msgid "Copyright link"
+msgstr ""
+
+#: ../tdframework/theme-options.php:104
+msgid "The full link to the copyright holder's website."
+msgstr ""
+
+#: ../tdframework/theme-options.php:105
+msgid ""
+"This will appear at the footer and the above options will be overwritten if "
+"you enter your html formatted copyright here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:110
+msgid "Typography"
+msgstr ""
+
+#: ../tdframework/theme-options.php:110
+msgid ""
+"Adjust the theme's typography. You can choose one of the predefined fonts, "
+"or enter a custom font name from the <a href=\"http://www.google.com/webfonts"
+"\" target=\"_blank\">Google Web Fonts</a> service."
+msgstr ""
+
+#: ../tdframework/theme-options.php:114
+msgid "Fonts"
+msgstr ""
+
+#: ../tdframework/theme-options.php:117
+msgid "Menu font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:118
+msgid "Heading font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:119
+msgid "Paragraph font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:122
+msgid "Heading sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:125 ../tdframework/theme-options.php:220
+msgid "Heading 1"
+msgstr ""
+
+#: ../tdframework/theme-options.php:131 ../tdframework/theme-options.php:221
+msgid "Heading 2"
+msgstr ""
+
+#: ../tdframework/theme-options.php:137 ../tdframework/theme-options.php:222
+msgid "Heading 3"
+msgstr ""
+
+#: ../tdframework/theme-options.php:143 ../tdframework/theme-options.php:223
+msgid "Heading 4"
+msgstr ""
+
+#: ../tdframework/theme-options.php:149 ../tdframework/theme-options.php:224
+msgid "Heading 5"
+msgstr ""
+
+#: ../tdframework/theme-options.php:155 ../tdframework/theme-options.php:225
+msgid "Heading 6"
+msgstr ""
+
+#: ../tdframework/theme-options.php:162
+msgid "Menu sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:171
+msgid "Main menu submenu"
+msgstr ""
+
+#: ../tdframework/theme-options.php:184
+msgid "Other sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:187
+msgid "Paragraph"
+msgstr ""
+
+#: ../tdframework/theme-options.php:193
+msgid "Sidebar headers"
+msgstr ""
+
+#: ../tdframework/theme-options.php:205 ../tdframework/theme-options.php:242
+msgid "Footer"
+msgstr ""
+
+#: ../tdframework/theme-options.php:214
+msgid "Customize the theme's colors."
+msgstr ""
+
+#: ../tdframework/theme-options.php:218
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:149
+msgid "Headings"
+msgstr ""
+
+#: ../tdframework/theme-options.php:227 ../tdframework/theme-options.php:229
+msgid "Menu"
+msgstr ""
+
+#: ../tdframework/theme-options.php:230
+msgid "Menu hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:231
+msgid "Menu background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:232
+msgid "Submenu text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:233
+msgid "Submenu text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:234
+msgid "Submenu background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:235
+msgid "Submenu background hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:237
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../tdframework/theme-options.php:239
+msgid "Breadcrumb text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:240
+msgid "Breadcrumb text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:244
+msgid "Footer content text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:245
+msgid "Footer  content menu text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:246
+msgid "Footer content menu text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:247
+msgid "Footer content menu background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:251
+msgid "Content"
+msgstr ""
+
+#: ../tdframework/theme-options.php:253
+msgid "Content background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:254
+msgid "Paragraphs"
+msgstr ""
+
+#: ../tdframework/theme-options.php:256
+msgid "Links hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:257
+msgid "Button"
+msgstr ""
+
+#: ../tdframework/theme-options.php:258
+msgid "Button hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:259
+msgid "Button text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:260
+msgid "Button text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:261
+msgid "Sidebar header text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:262
+msgid "Sidebar header background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:263
+msgid "Search field"
+msgstr ""
+
+#: ../tdframework/theme-options.php:264
+msgid "Custom content block"
+msgstr ""
+
+#: ../tdframework/theme-options.php:268
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:511
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:41
+#: ../tdframework/core/widgets/categories.php:21
+msgid "Categories"
+msgstr ""
+
+#: ../tdframework/theme-options.php:268
+msgid "Use this page to define options for individual categories."
+msgstr ""
+
+#: ../tdframework/theme-options.php:305
+#: ../tdframework/core/layout/layout-init.php:90
+msgid "Layout"
+msgstr ""
+
+#: ../tdframework/theme-options.php:308
+#: ../tdframework/theme-post-options.php:18
+#: ../tdframework/core/layout/layout-init.php:45
+#: ../tdframework/core/layout/layout-init.php:75
+msgid "Slider"
+msgstr ""
+
+#: ../tdframework/theme-options.php:308
+#: ../tdframework/theme-post-options.php:18
+msgid "The slider will be displayed at the top of the page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:310
+msgid "Thumbnail"
+msgstr ""
+
+#: ../tdframework/theme-options.php:311
+#: ../tdframework/core/layout/layout-init.php:47
+#: ../tdframework/core/layout/layout-init.php:77
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:158
+msgid "Background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:313
+#: ../tdframework/core/layout/layout-init.php:49
+#: ../tdframework/core/layout/layout-init.php:79
+msgid "Color scheme"
+msgstr ""
+
+#: ../tdframework/theme-options.php:316
+msgid "Category Slogan block"
+msgstr ""
+
+#: ../tdframework/theme-options.php:316
+#: ../tdframework/theme-post-options.php:43
+#: ../tdframework/core/layout/layout-init.php:52
+#: ../tdframework/core/layout/layout-init.php:82
+msgid "Any HTML put here will be included in it's own block above the content."
+msgstr ""
+
+#: ../tdframework/theme-options.php:317
+#: ../tdframework/core/layout/layout-init.php:53
+#: ../tdframework/core/layout/layout-init.php:83
+msgid "Slogan background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:317
+#: ../tdframework/core/layout/layout-init.php:53
+#: ../tdframework/core/layout/layout-init.php:83
+msgid "A background for the slogan block above the content."
+msgstr ""
+
+#: ../tdframework/theme-options.php:320 ../tdframework/core/core-seo.php:37
+msgid "Meta Description"
+msgstr ""
+
+#: ../tdframework/theme-options.php:320
+msgid "Enter the meta description for this category page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:321
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../tdframework/theme-options.php:321
+msgid "Enter the meta keywords separated by commas"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:24
+msgid "Widget area"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:24
+msgid "This option allows you to place a widget area next to the slider."
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:25
+#: ../tdframework/core/options/options-types.php:76
+#: ../tdframework/core/slider/slider-options.php:86
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:136
+msgid "None"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:25
+#: ../tdframework/core/core-ads.php:42
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:44
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:51
+msgid "Left"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:25
+#: ../tdframework/core/core-ads.php:42
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:45
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:52
+msgid "Right"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:29
+msgid "Widget sidebar"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:29
+msgid "This sidebar will be displayed in the widget area next to the slider."
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:37
+msgid "Content color scheme"
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:37
+msgid "The content block will use this color scheme."
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:40
+msgid ""
+"This background image will override the one defined under theme options."
+msgstr ""
+
+#: ../tdframework/theme-post-options.php:43
+#: ../tdframework/core/layout/layout-init.php:52
+#: ../tdframework/core/layout/layout-init.php:82
+msgid "Slogan block"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:35
+msgid "Show this advertisement"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:37
+msgid "Type"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:38 ../tdframework/core/core-ads.php:45
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:256
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:101
+msgid "Image"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:38 ../tdframework/core/core-ads.php:48
+msgid "Code"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:41
+msgid "Alignment"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:42
+#: ../tdframework/core/colorschemes/colorschemes-options.php:90
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:55
+msgid "Default"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:42
+msgid "Center"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:45
+msgid "The image displayed for image type ads."
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:46
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:316
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:122
+msgid "Link"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:47
+msgid "ALT text"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:48
+msgid "The code used for code type ads."
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:49
+msgid "Notes"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:66
+#, php-format
+msgid "Ad spot %s does not exist."
+msgstr ""
+
+#: ../tdframework/core/core-breadcrumbs.php:118
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../tdframework/core/core-breadcrumbs.php:122
+#, php-format
+msgid "tag \\ %s"
+msgstr ""
+
+#: ../tdframework/core/core-breadcrumbs.php:127
+msgid "Author"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:34
+msgid "Enable for this page."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:36
+msgid "Page Title"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:37
+msgid "The description should optimally be between 150-160 characters."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:38
+msgid "Keywords"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:38
+msgid "Separate each keyword with a comma."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:75
+msgid ""
+"<!-- SEO Basic is disabled -->\n"
+"\t"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:21
+msgid ""
+"Use this page to enter your social media profile names, or to define custom "
+"social media links."
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:24
+msgid "Predefined"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:39
+msgid "URL"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:40
+msgid "Icon"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:41
+msgid "Hover icon"
+msgstr ""
+
+#: ../tdframework/core/core-utils.php:206
+#, php-format
+msgid "Customize %s"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:13
+msgid "Here you can define color schemes to use on separate posts and pages."
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:32
+msgid "Name"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:33
+msgid "Background color"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:34
+msgid "Background opacity %"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:35
+msgid "Paragraph color"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:36
+msgid "Headings color"
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-init.php:14
+msgid "Amazingly few discotheques provide jukeboxes."
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-list.php:7
+msgid "Standard fonts"
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-list.php:17
+msgid "Google fonts"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-generate.php:147
+msgid "No sidebar defined for this widget location."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:33
+msgid "Layouts"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:33
+msgid "Use this page to define the layouts of special pages."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:40
+msgid "Default page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:45
+#: ../tdframework/core/layout/layout-init.php:75
+msgid "The slider will be displayed at the top of this page."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:58
+msgid "Search page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:59
+msgid "Archive page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:60
+msgid "404 page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:61
+msgid "Author page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:62
+msgid "Tag page"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:95
+msgid ""
+"Use this option to change the layout of the current page. Sidebars are "
+"ordered from left to right."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:98
+msgid "Sidebars"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:98
+msgid ""
+"By adding sidebars here, you can assign widgets to them and then use them in "
+"your page layouts."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:214
+msgid "Default Left"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:215
+msgid "Default Right"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:216
+msgid "Footer 1"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:217
+msgid "Footer 2"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:218
+msgid "Footer 3"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:219
+msgid "Footer 4"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:220
+msgid "Footer 5"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:221
+msgid "Footer 6"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:122
+msgid "Footer column"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:138
+msgid "Add"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:140
+msgid "Available sidebars"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:146
+#: ../tdframework/core/layout/layout-options.php:155
+#: ../tdframework/core/slider/slider-options.php:48
+#: ../tdframework/core/slider/slider-options.php:58
+msgid "Remove"
+msgstr ""
+
+#: ../tdframework/core/options/options-classes.php:278
+#, php-format
+msgid "Unknown option type %s."
+msgstr ""
+
+#: ../tdframework/core/options/options-theme.php:42
+msgid "Options saved succesfully."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:10
+msgid "Small button"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:11
+msgid ""
+"Inserts a small button. If you add the <i>window</i> attribute, the link "
+"will be opened in a new window."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:14
+msgid "Medium button"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:15
+msgid ""
+"Inserts a medium sized button. If you add the <i>window</i> attribute, the "
+"link will be opened in a new window."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:18
+msgid "Large button"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:19
+msgid ""
+"Inserts a large button. If you add the <i>window</i> attribute, the link "
+"will be opened in a new window."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:24
+msgid "Columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:25
+msgid "2 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:26
+msgid "Inserts two columns in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:29
+msgid "1/3 - 2/3"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:30
+msgid ""
+"Inserts two columns, one a third and the other two thirds, in which you can "
+"place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:33
+msgid "2/3 - 1/3"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:34
+msgid ""
+"Inserts two columns, one two thirds and the other a third, in which you can "
+"place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:37
+msgid "1/4 - 3/4"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:38
+msgid ""
+"Inserts two columns, one a fourth and the other three fourths, in which you "
+"can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:41
+msgid "3/4 - 1/4"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:42
+msgid ""
+"Inserts two columns, one three fourths and the other a fourth, in which you "
+"can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:45
+msgid "3 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:46
+msgid "Inserts three columns in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:49
+msgid "4 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:50
+msgid "Inserts four columns in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:53
+msgid "5 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:54
+msgid "Inserts five columns in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:57
+msgid "Custom 2 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:58
+msgid ""
+"1. Insert the default column shortcode, which also can be changed into 3/4/5 "
+"columns  \n"
+"2. Then insert only the URL of your favourite background image. \n"
+"3. Choose your own personal text color  \n"
+"4. Set your own image size (default settings are: 100 % and 150 px), which "
+"can be made larger or smaller"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:63
+msgid "Columns (divider)"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:64
+msgid "2 columns + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:65
+msgid ""
+"Inserts two columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:68
+msgid "1/3 - 2/3 + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:69
+msgid ""
+"Inserts two columns, one a third and the other two thirds, separated by a "
+"divider line in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:72
+msgid "2/3 - 1/3 + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:73
+msgid ""
+"Inserts two columns, one two thirds and the other a third, separated by a "
+"divider line in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:76
+msgid "1/4 - 3/4 + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:77
+msgid ""
+"Inserts two columns, one a fourth and the other three fourths, separated by "
+"a divider line in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:80
+msgid "3/4 - 1/4 + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:81
+msgid ""
+"Inserts two columns, one three fourths and the other a fourth, separated by "
+"a divider line in which you can place further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:84
+msgid "3 columns + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:85
+msgid ""
+"Inserts three columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:88
+msgid "4 columns + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:89
+msgid ""
+"Inserts four columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:92
+msgid "5 columns + divider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:93
+msgid ""
+"Inserts five columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:99
+msgid "Dividers"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:100
+msgid "Dotted"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:101
+msgid "Inserts a dotted divider line."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:104
+msgid "Invisible Spacer 20px"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:105
+msgid ""
+"Inserts a spacer of 20 pixels high. Perfect to create space between columns."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:108
+msgid "Slashed"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:109
+msgid "Inserts a slashed tall divider line."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:112
+msgid "Solid"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:113
+msgid "Inserts a solid divider line."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:116
+msgid "To top"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:117
+msgid ""
+"Inserts a solid divider line with a button that scrolls the page to the top."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:122
+msgid "Dropcaps"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:123
+msgid "Red dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:124
+msgid "Inserts a red dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:127
+msgid "Green dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:128
+msgid "Inserts a green dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:131
+msgid "Blue dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:132
+msgid "Inserts a blue dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:135
+msgid "White dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:136
+msgid "Inserts a white dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:139
+msgid "Black dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:140
+msgid "Inserts a black dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:143
+msgid "Grey dropcap"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:144
+msgid "Inserts a grey dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:150
+msgid "Padded heading 1"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:151
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:155
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:159
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:163
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:167
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:171
+msgid "Inserts a padded heading."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:154
+msgid "Padded heading 2"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:158
+msgid "Padded heading 3"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:162
+msgid "Padded heading 4"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:166
+msgid "Padded heading 5"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:170
+msgid "Padded heading 6"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:176
+msgid "Image gallery"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:177
+msgid "Image gallery, 2 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:178
+msgid "Inserts an image gallery with 2 columns."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:181
+msgid "Image gallery, 3 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:182
+msgid "Inserts an image gallery with 3 columns."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:185
+msgid "Image gallery, 4 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:186
+msgid "Inserts an image gallery with 4 columns."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:189
+msgid "Image gallery, 6 columns"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:190
+msgid "Inserts an image gallery with 6 columns."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:195
+msgid "Lists"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:196
+msgid "Balloon"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:197
+msgid "A list with balloon icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:200
+msgid "Circle"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:201
+msgid "A list with circular bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:204
+msgid "Creditcard"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:205
+msgid "A list with creditcard icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:208
+msgid "Dot"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:209
+msgid "A list with dotted bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:212
+msgid "File"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:213
+msgid "A list with file icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:216
+msgid "Mail"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:217
+msgid "A list with mail icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:220
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:267
+msgid "Info"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:221
+msgid "A list with info icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:224
+msgid "Minus"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:225
+msgid "A list with minus sign bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:228
+msgid "Phone"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:229
+msgid "A list with phone icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:232
+msgid "Plus"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:233
+msgid "A list with plus sign bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:236
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:287
+msgid "Question"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:237
+msgid "A list with question icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:240
+msgid "Square"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:241
+msgid "A list with square bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:244
+msgid "Support"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:245
+msgid "A list with \"support\" icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:248
+msgid "V"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:249
+msgid "A list with tick bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:252
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:263
+msgid "Warning"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:253
+msgid "A list with warning icon bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:256
+msgid "X"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:257
+msgid "A list with cross bullets."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:262
+msgid "Notifications"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:264
+msgid "A warning notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:268
+msgid "An informative notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:271
+msgid "Textbox white"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:272
+msgid "An informative White box notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:275
+msgid "Textbox black"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:276
+msgid "An informative Black box notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:279
+msgid "Textbox grey"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:280
+msgid "An informative Grey box notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:283
+msgid "Ok"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:284
+msgid "A positive notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:288
+msgid "A question notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:291
+msgid "Error"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:292
+msgid "An error notification."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:297
+msgid "Quotes"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:298
+msgid "Quote block"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:299
+msgid "Inserts a block which is styled like a quote."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:302
+msgid "Pullquote left"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:303
+msgid "Inserts a left-aligned pullquote block."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:306
+msgid "Pullquote right"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:307
+msgid "Inserts a right-aligned pullquote block."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:310
+msgid "Quote symbol 1"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:311
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:315
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:319
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:323
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:327
+msgid "Inserts a quote symbol image, which will be placed like a dropcap."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:314
+msgid "Quote symbol 2"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:318
+msgid "Quote symbol 3"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:322
+msgid "Quote symbol 4"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:326
+msgid "Quote symbol 5"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:332
+msgid "Tabs"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:333
+msgid "Tab block"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:334
+msgid "Inserts a tabbed content block. Use [tab] shortcodes to add more tabs."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:337
+msgid "Single tab"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:338
+msgid ""
+"A single tab. This needs to be placed inside a [tabs] shortcode (and not "
+"inside another [tab] shortcode) to work."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:343
+msgid "Toggle"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:344
+msgid "Toggle block"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:345
+msgid ""
+"Inserts a toggled content block. Use [toggle_content] shortcodes to add more "
+"content sections."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:348
+msgid "Single toggle section"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:349
+msgid ""
+"A single toggle content section. This needs to be placed inside a [toggle] "
+"shortcode (and not inside another [toggle_content] shortcode) to work."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:354
+msgid "Special Shortcodes"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:355
+msgid "Thumbnail Post Slider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:356
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:360
+msgid "Inserts an Accordion-Carousel Thumbnail slider."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:359
+msgid "Thumbnail Product Slider"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:363
+#: ../tdframework/core/widgets/postwidget.php:109
+msgid "Latest Posts"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:364
+msgid "Inserts a list of latest posts."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:367
+msgid "Popular Posts"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:368
+msgid "Inserts a list of popular posts."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:371
+msgid "Random Posts"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:372
+msgid "Inserts a list of random posts."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:375
+msgid "Custom Latest Posts"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:376
+msgid ""
+"Inserts a list of latest posts in a blog style format. You put a custom "
+"title, select which category to display, limit the number of posts, limit "
+"the number of words and use thumbnail, medium or large as the size of the "
+"featured image."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:516
+msgid "Shortcodes"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes-overlay.php:521
+msgid "Description"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:233
+msgid "Invalid or no \"notify\" shortcode attribute."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:250
+msgid "Invalid or no \"list\" shortcode attribute."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:282
+msgid "Invalid or no \"column\" shortcode attribute."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:418
+#: ../tdframework/core/shortcodes/shortcodes.php:528
+#: ../tdframework/core/shortcodes/shortcodes.php:609
+msgid "No posts found."
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:492
+#: ../tdframework/core/shortcodes/shortcodes.php:600
+msgid "read more"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:498
+#: ../tdframework/core/shortcodes/shortcodes.php:500
+msgid " Comments"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:502
+msgid "Comment"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:513
+msgid "Category"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:519
+msgid "Tags"
+msgstr ""
+
+#: ../tdframework/core/shortcodes/shortcodes.php:605
+msgid "right"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-options.php:16
+msgid "Create sliders, to be used on pages and post."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-options.php:39
+msgid "Add new"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-registry.php:25
+#, php-format
+msgid "Could not find slider with slug name \"%s\"."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-registry.php:74
+msgid "Slider saved succesfully."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:5
+msgid "Latest posts Slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:21
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:143
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:44
+msgid "Width"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:26
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:148
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:49
+msgid "Height"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:31
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:76
+msgid "Transition speed"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:36
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:65
+msgid "Slide delay"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:42
+msgid ""
+"Enter the slug names of categories you want the slider to display, separated "
+"by commas."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:47
+msgid "Post count"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:52
+msgid "Word count"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-latest/slider-latest.php:108
+msgid "Read more"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:40
+msgid "Same window"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:40
+msgid "New window"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:46
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:53
+msgid "Top"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:47
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:54
+msgid "Bottom"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:48
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:5
+msgid "Fade"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:60
+msgid "Layer Slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:78
+msgid "Play automatically"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:83
+msgid "Reverse playback at end"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:88
+msgid "Show previous\\next buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:93
+msgid "Show start\\stop buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:98
+msgid "Show slide buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:103
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:86
+msgid "Pause on hover"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:113
+msgid "Keyboard navigation"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:118
+msgid "Skinned"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:129
+msgid "Dark Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:130
+msgid "Default Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:133
+msgid "Glass"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:134
+msgid "Light Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:135
+msgid "Minimal"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:138
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:60
+msgid "Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:169
+msgid "Transition"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:181
+msgid "Duration"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:182
+msgid "This value determines how long the slide will remain visible."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:195
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:372
+msgid "In\\out duration"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:214
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:391
+msgid "In\\out move effect"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:215
+msgid ""
+"These effects are used when moving the slide in and out of the slider area. "
+"Click for demos of these effects."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:233
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:352
+msgid "In\\out delay"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:267
+msgid "HTML"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:268
+msgid ""
+"The HTML code will be displayed as part of this layer, together with the "
+"image."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:278
+msgid "HTML width\\height"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:297
+msgid "Left\\top position"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:317
+msgid ""
+"Clicking this layer will navigate to this address. Layers with HTML will not "
+"be clickable."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:333
+msgid "In\\out transition"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:353
+msgid ""
+"Use this to delay this layer from appearing, after the slide has started."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:392
+msgid ""
+"These settings determine how the layer moves in or out of view. Click for "
+"demos of these effects."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:410
+msgid "Depth"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:411
+msgid ""
+"Higher values will make this layer appear closer, lower values will make it "
+"appear farther away."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:424
+msgid "In\\out parallax"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:4
+msgid "Fold"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:6
+msgid "Random"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:7
+msgid "Slice down"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:8
+msgid "Slice down left"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:9
+msgid "Slice up"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:10
+msgid "Slice up left"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:11
+msgid "Slice up down"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:12
+msgid "Slice up down left"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:13
+msgid "Slide in right"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:14
+msgid "Slide in left"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:15
+msgid "Boxes random"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:16
+msgid "Boxes rain"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:17
+msgid "Boxes rain reverse"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:18
+msgid "Boxes rain grow"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:19
+msgid "Boxes rain grow reverse"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:24
+msgid "Nivo slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:56
+msgid "Bar"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:57
+msgid "Dark"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:58
+msgid "Light"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:71
+msgid "Transition effect"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:81
+msgid "Autoplay"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:91
+msgid "Next\\previous buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-nivoslider/slider-nivoslider.php:112
+msgid "Caption"
+msgstr ""
+
+#: ../tdframework/core/widgets/adwidget.php:19
+msgid "ThemeDutch AdWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:7
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:8
+msgid "ThemeDutch Categories"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:48
+msgid "No categories found."
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:51
+msgid "Select Category"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:106
+#: ../tdframework/core/widgets/postwidget.php:120
+msgid "Title:"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:109
+msgid "Show these categories (slug names, separated by commas)"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:113
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:116
+msgid "Show post counts"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:119
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:122
+msgid "Show icons"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:159
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:181
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:18
+msgid "ThemeDutch PostsWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:124
+msgid "Display Option:"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:132
+msgid "Category: (comma separated)"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:137
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:20
+msgid "ThemeDutch TabbedWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:70
+msgid "Tabbed Widgets"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:75
+msgid ""
+"Place your desired widgets in the Tabbed Widget Area and they will show up "
+"here."
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:78
+msgid "!!! Important: DO NOT place this in the Tabbed Widget Area."
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:97
+msgid "Tabbed Widget Area"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:99
+msgid ""
+"All the widgets being placed here will be the contents of ThemeDutch "
+"TabbedWidget. !!! IMPORTANT: Do NOT place the \"ThemeDutch TABBEDWIDGET\" in "
+"this area. Please put it in another Sidebar widget area. "
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:139
+#, php-format
+msgid ""
+"ThemeDutch TabbedWidget is activated.  To start using, add some widgets to "
+"the <a href=\"%s\">Tabbed Widget Area</a>."
+msgstr ""

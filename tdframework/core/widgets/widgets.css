@@ -1,0 +1,163 @@
+/*
+*
+* Styles for Theme Dutch Extras Widgets
+*
+*/
+
+/* Ad Widget */
+.td_adwidget_wrap 			{ margin: 0 auto; width: auto; text-align: center; }
+.td_adwidget_thumb 			{ display:inline-block; zoom:1; *display:inline; }
+.td_adwidget_thumb a		{ width: auto; }
+.td_adwidget_thumb img 		{
+
+	-webkit-transition-property: border-color;
+  	-webkit-transition-duration: 0.5s;
+  	-moz-transition-property: border-color;
+  	-moz-transition-duration: 0.5s;
+  	-ms-transition-property: border-color;
+  	-ms-transition-duration: 0.5s;
+  	-o-transition-property: border-color;
+  	-o-transition-duration: 0.5s;
+  	transition-property: border-color;
+  	transition-duration: 0.5s;
+
+    background: #fff;
+  	margin:0 0 15px; padding: 0; max-width: 125px !important; width: 100%;
+
+  	/*-moz-box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.25);
+	box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.25);*/
+}
+
+.td_adwidget_thumb img:hover {}
+
+
+/********************************************************************************
+                Tabber CSS
+********************************************************************************/
+/*--------------------------------------------------
+  Some styles to help most WordPress themes
+  --------------------------------------------------*/
+.tabbertabs {
+	position: relative;
+	/*width: 100%;*/
+	padding-bottom: 15px;
+}
+
+.widget ul.tabbernav {
+	height: auto !important;
+	list-style: none !important;
+}
+
+.widget ul.tabbernav li { /* hide bullets from tab headings */
+	background: none;
+	padding: 0;
+	list-style: none;
+	display:-moz-inline-stack;
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+}
+
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+.widget .tabber ul.tabbernav {
+	margin: 0;
+	padding: 0;
+ 	font: 12px;
+}
+
+.widget .tabber ul.tabbernav li {
+	margin: 0;
+	/*-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;*/
+	padding: 8px 14px;
+	margin-right: 2px;
+
+	list-style: none;
+	text-decoration: none;
+	display:-moz-inline-stack;
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+	cursor: pointer;
+	background: #ccc url(../images/tab-mask.png) repeat-x bottom;
+}
+
+.widget .tabber ul.tabbernav li.tabberactive {
+	background-color: #e5e5e5;
+}
+
+/*--------------------------------------------------
+  .tabbertab = the tab content
+  --------------------------------------------------*/
+.tabbertab {
+  border: none;
+  position: absolute;
+  width: 100%;
+  padding: 10px;
+  background-color: #e5e5e5;
+  box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.tabbertab:first-child{
+	z-index: 99;
+}
+.tabbertab ul {
+	margin: 0;
+}
+
+.tabbertab ul li {
+	list-style: none;
+}
+
+.tabbernav {
+	margin: 0;
+}
+
+.tabbercontent {
+	overflow: hidden;
+	position: relative;
+	background-color: #e5e5e5;
+	/*-webkit-border-radius: 5px;
+	-webkit-border-top-left-radius: 0;
+	-moz-border-radius: 5px;
+	-moz-border-radius-topleft: 0;
+	border-radius: 5px;
+	border-top-left-radius: 0;*/
+}
+
+
+/********************************************************************************
+    TD category thumbnails
+*********************************************************************************/
+.td-cat-item {
+	list-style: none;
+}
+
+.td-cat-item img {
+  display:-moz-inline-stack;
+  display:inline-block;
+  zoom:1;
+  *display:inline;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  vertical-align: middle;
+  width: 32px;
+}
+
+
+@media screen and (max-width: 767px) {
+	.td_adwidget_thumb { margin-right: 1em; }
+}
+

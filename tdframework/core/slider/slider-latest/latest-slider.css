@@ -1,0 +1,59 @@
+/* =================================
+    Latest post slider
+   ================================= */
+.slider-latest {
+	overflow: hidden;
+	position: relative;
+}
+
+	.slider-latest * {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		-o-sizing: border-box;
+		-ms-sizing: border-box;
+	}
+
+.slider-latest-image {
+	width: 100%;
+	height: 100%;
+}
+
+.slider-latest-content {
+	float: left;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	padding: 0 30px 0 30px;
+	background-color: #000000;
+	background-color: rgba(0, 0, 0, 0.75);
+	color: #fff !important;
+	width: 28.6%;
+	height: 100%;
+}
+
+.slider-latest-content h2 {
+	color: #fff !important;
+	margin-top: 30px;
+}
+
+.slider-latest-slide {
+	width: 100%;
+	height: 100% !important;
+	visibility: hidden;
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.thumbnail-left .slider-latest-content,
+.thumbnail-right .slider-latest-content {
+	padding-bottom: 30px;
+	float: none;
+	width: 96%;
+	height: auto !important;
+	top: auto;
+	left: 2%;
+	bottom: 3%;
+}
